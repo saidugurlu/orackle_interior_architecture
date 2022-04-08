@@ -1,6 +1,6 @@
 ## Projeckt orackle_interior_architecture 
 
-##### Sie können es hier finden : https://orackle-interior-architecture.netlify.app/#portfolio
+##### Sie können es hier finden : https://orackle-interior-architecture.netlify.app/
 
 ![reference image](img/Orackle-screen1.png)
 
